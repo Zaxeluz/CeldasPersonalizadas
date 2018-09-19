@@ -14,6 +14,7 @@
 		3D7A2CE02151D856009C8A09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D7A2CDE2151D856009C8A09 /* LaunchScreen.storyboard */; };
 		3D7A2CEB2151D856009C8A09 /* Celdas_PersonalizadasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A2CEA2151D856009C8A09 /* Celdas_PersonalizadasTests.swift */; };
 		3D7A2CF62151D856009C8A09 /* Celdas_PersonalizadasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A2CF52151D856009C8A09 /* Celdas_PersonalizadasUITests.swift */; };
+		3D7A2D042151DA55009C8A09 /* CeldaAlumnos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A2D032151DA55009C8A09 /* CeldaAlumnos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3D7A2CF12151D856009C8A09 /* Celdas PersonalizadasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Celdas PersonalizadasUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D7A2CF52151D856009C8A09 /* Celdas_PersonalizadasUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Celdas_PersonalizadasUITests.swift; sourceTree = "<group>"; };
 		3D7A2CF72151D856009C8A09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D7A2D032151DA55009C8A09 /* CeldaAlumnos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CeldaAlumnos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				3D7A2CDC2151D856009C8A09 /* Assets.xcassets */,
 				3D7A2CDE2151D856009C8A09 /* LaunchScreen.storyboard */,
 				3D7A2CE12151D856009C8A09 /* Info.plist */,
+				3D7A2D032151DA55009C8A09 /* CeldaAlumnos.swift */,
 			);
 			path = "Celdas Personalizadas";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				3D7A2CD82151D84B009C8A09 /* ViewController.swift in Sources */,
 				3D7A2CD62151D84B009C8A09 /* AppDelegate.swift in Sources */,
+				3D7A2D042151DA55009C8A09 /* CeldaAlumnos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
